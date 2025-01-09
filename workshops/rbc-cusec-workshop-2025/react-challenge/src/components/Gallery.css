@@ -1,0 +1,13 @@
+.Gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
+
+.Gallery img {
+  margin: 10px;
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+}
